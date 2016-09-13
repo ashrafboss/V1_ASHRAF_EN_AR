@@ -1,14 +1,10 @@
-TΞΛM BФSS 🛡
 
-🛡 channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
-
-🌐DEV : @TH3BOSS
 
 🔺➖🔺➖🔺➖🔺➖
 
-كيفيه تنصيب  TeleBoss  
+كيفيه تنصيب  V!_ASHRAF_EN_AR
 
-#نسخه_انكلش_لمحبي_وعشاق_الانكلش 
+عربي انكلش اخوكم اشرف السهلاني
 🔺➖🔺➖🔺➖🔺➖
 
 افتـح ترمنـــأل وخلي   
@@ -42,7 +38,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 🔺➖🔺➖🔺➖🔺➖
 
-git clone https://github.com/moody2020/TeleBoss.git
+git clone https://github.com/ashrafboss/V1_ASHRAF_EN_AR
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -50,7 +46,7 @@ git clone https://github.com/moody2020/TeleBoss.git
 
 🔺➖🔺➖🔺➖🔺➖
 
-cd TeleBoss
+cd V1_ASHRAF_EN_AR
 
 🔺➖🔺➖🔺➖🔺➖
 
@@ -84,15 +80,7 @@ chmod +x launch.sh
 
 عندك استفسار او اي شي راسلني
 
-@TH3BOSS 
-
-واذا محظور تعال على بوت التواصل
-
-@ll60Kllbot
-
-قـنـاة الـسـورس
-
-@llDEV1ll
+@SAN8IQ
 
 🛡 Realm configuration
 
