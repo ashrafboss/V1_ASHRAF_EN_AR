@@ -93,8 +93,4 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-🛡Support and development [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)✨
-
-For managing on Telegram.
-ADD [@TH3BOSS](https://telegram.me/TH3BOSS) 🛡
-Subscribe to Source channel [℡ TΞΛM BФSS🛡](https://telegram.me/llDEV1ll)
+ASHRAF****(http://telegram.me/SAN8IQ
