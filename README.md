@@ -93,4 +93,4 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-ASHRAF****(http://telegram.me/SAN8IQ
+ASHRAF****(http://telegram.me/SAN8IQ)
